@@ -1,3 +1,6 @@
 [submodule "alien-invasion"]
 	path = alien-invasion
 	url = https://github.com/szuhaydv/alien-invasion.git
+[submodule "anki-tui"]
+	path = anki-tui
+	url = https://github.com/szuhaydv/anki-tui.git
