@@ -4,3 +4,9 @@
 [submodule "anki-tui"]
 	path = anki-tui
 	url = https://github.com/szuhaydv/anki-tui.git
+[submodule "todo/frontend"]
+	path = todo/frontend
+	url = https://github.com/szuhaydv/todo-frontend
+[submodule "todo/backend"]
+	path = todo/backend
+	url = https://github.com/szuhaydv/todo-backend.git
