@@ -10,3 +10,6 @@
 [submodule "todo/backend"]
 	path = todo/backend
 	url = https://github.com/szuhaydv/todo-backend.git
+[submodule "portfolio-v1"]
+	path = portfolio-v1
+	url = https://github.com/szuhaydv/portfolio-v1.git
